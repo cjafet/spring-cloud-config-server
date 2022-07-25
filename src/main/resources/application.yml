@@ -9,7 +9,7 @@ spring:
               pattern: 'nosqljs/dev'
               cloneOnStart: true
               uri: https://github.com/cjafet/spring-config
-              searchPaths: configs/nosqljs/dev
+              searchPaths: config-repo
 
 logging:
   level:
